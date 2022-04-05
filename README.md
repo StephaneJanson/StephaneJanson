@@ -1,4 +1,5 @@
 ### Hi there 👋
+![photo of a growing tree](https://www.photofunky.fr/i/32e316)
 
 <!--
 **StephaneJanson/StephaneJanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
